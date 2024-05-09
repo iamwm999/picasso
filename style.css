@@ -1,0 +1,94 @@
+.box {
+    height: 200px;
+    width: 400px;
+    background-color: rgb(52, 155, 155);
+
+    position: relative;
+}
+
+.trigreen {
+    background-color: green;
+    width: 20px; 
+    height: 20px; 
+    border-left: 1px solid transparent;
+    border-right: 1px solid transparent;
+    
+    border-bottom: 1px solid black;
+  }
+
+  .triyellow {
+    background-color: greenyellow;
+    width: 0; 
+    height: 0; 
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    
+    border-bottom: 5px solid black;
+  }
+
+
+  .small1 {
+    height: 15px;
+    width: 15px;
+    background-color: coral;
+    border-radius: 50%;
+
+    position: absolute;
+    top: 5px;
+    left: 25px;
+  }
+
+  .small2 {
+    height: 15px;
+    width: 15px;
+    background-color: coral;
+    border-radius: 50%;
+
+    position: absolute;
+    top: 40px;
+    left: 25px;
+  }
+
+  .small3 {
+    height: 15px;
+    width: 15px;
+    background-color: yellow;
+    border-radius: 50%;
+
+    position: absolute;
+    top: 70px;
+    left: 70px;
+  }
+
+  .small4 {
+    height: 15px;
+    width: 15px;
+    background-color: coral;
+    border-radius: 50%;
+
+    position: absolute;
+    top: 15px;
+    left: 170px;
+  }
+
+  .big1 {
+    height: 45px;
+    width: 45px;
+    background-color: yellow;
+    border-radius: 50%;
+
+    position: absolute;
+    top: 10px;
+    left: 72px;
+  }
+
+  .big2 {
+    height: 45px;
+    width: 45px;
+    background-color: coral;
+    border-radius: 50%;
+
+    position: absolute;
+    top: 35px;
+    left: 125px;
+  }
